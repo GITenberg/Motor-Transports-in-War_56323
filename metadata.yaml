@@ -1,11 +1,16 @@
 _repo: Motor-Transports-in-War_56323
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56323-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyatt, Horace
     gutenberg_agent_id: '48783'
     url: http://www.gutenberg.org/2009/agents/48783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56323#Motor-Transports-in-War
 gutenberg_issued: '2018-01-06'
 gutenberg_type: Text
 identifiers:
